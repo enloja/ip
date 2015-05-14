@@ -4,7 +4,9 @@ public class Salutation{
 
 public static void main(String arg[]){
   System.out.println("Salut Team Dev");
+ System.out.println("Salut Team Dev");
 
 }
 
 }
+ 
