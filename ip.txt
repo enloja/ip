@@ -1,4 +1,5 @@
 
+import java.util.*;
 public class Salutation{
 
 public static void main(String arg[]){
